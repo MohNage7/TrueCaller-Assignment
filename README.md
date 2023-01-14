@@ -7,11 +7,9 @@
 
 ### Light Mode
 
-<img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/Screenshot_20221201_184258.png"  width="197" height="414" /> <img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/Screenshot_20221201_183817.png"   width="197" height="414"/><img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/Screenshot_20221201_184237.png"  width="197" height="414" />
 
 ### Dark Mode
 
-<img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/Screenshot_20221201_184044.png"   width="197" height="414" /><img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/Screenshot_20221201_184052.png"  width="197" height="414" /><img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/Screenshot_20221201_184201.png"  width="197" height="414" />
 
 ## Project Overview
 
@@ -38,7 +36,7 @@ following [clean architucte](https://blog.cleancoder.com/uncle-bob/2012/08/13/th
 
 The following diagram shows how all the modules will interact with one another.
 
-<img src="https://github.com/MohNage7/Tending-Repos/blob/develop/screenshots/clean_architecture_mvvm.png"  width=772 height=772  />
+<img src="https://user-images.githubusercontent.com/6612154/212491877-f1c61095-41e6-47f3-839a-48e9042500b3.png"  width=772 height=772  />
 
 ### Dependency Flow
 
