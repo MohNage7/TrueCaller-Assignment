@@ -12,8 +12,8 @@ import dagger.hilt.components.SingletonComponent
 interface DataModule {
 
     @Binds
-    fun bindsCharacterRepository(
-        characterRepositoryImpl: BlogRepositoryImpl
+    fun bindsBlogRepository(
+        clogRepositoryImpl: BlogRepositoryImpl
     ): BlogRepository
 
 }
