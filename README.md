@@ -5,10 +5,7 @@
 
 ## Preview
 
-### Light Mode
-
-
-### Dark Mode
+<img src="https://user-images.githubusercontent.com/6612154/212548109-68337548-e0f7-4f71-b130-a4174e3ce2e8.png"  width="197" height="414" /> <img src="https://user-images.githubusercontent.com/6612154/212548110-92486667-e7ea-46e1-949d-47dcb0672951.png"   width="197" height="414"/><img src="https://user-images.githubusercontent.com/6612154/212548103-7202e7a5-8d90-4a2a-a113-5fea57e699a6.png"  width="197" height="414" />
 
 
 ## Project Overview
