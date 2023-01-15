@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mohnage7.tendingrepos'
+    namespace 'com.mohnage7.truecaller'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.mohnage7.tendingrepos"
+        applicationId "com.mohnage7.truecaller"
         minSdk 24
         targetSdk 33
         versionCode 1
@@ -63,4 +63,5 @@ dependencies {
     implementation libs.hilt.android
     kapt libs.hilt.compiler
     testImplementation libs.bundles.test
+    testImplementation(libs.coroutines.test)
 }
