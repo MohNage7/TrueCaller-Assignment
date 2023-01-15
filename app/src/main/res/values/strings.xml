@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">TrueCaller</string>
-    <string name="error_message_title">Something went wrong..</string>
+    <string name="generic_error_message">Something went wrong..</string>
+    <string name="msg_loading_nth_character">Loading nth character occurrences…</string>
+    <string name="msg_loading_words_count">Loading total words count…</string>
+    <string name="msg_loading_char_at_position">Loading char at requested position…</string>
+    <string name="msg_char_at_position">Char at requested position is: %c</string>
+    <string name="btn_title_see_more">… Show More</string>
+    <string name="btn_title_see_less">Show Less</string>
+    <string name="msg_pending_char_at_position">Run to get character at specific position</string>
+    <string name="msg_pending_nth_character_occurrences">Run to get nth character occurrences</string>
+    <string name="btn_title_run">Run Requests</string>
+    <string name="msg_pending_words_count">Run to get total words count</string>
 </resources>
